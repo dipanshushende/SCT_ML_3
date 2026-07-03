@@ -237,4 +237,20 @@ GitHub: https://github.com/dipanshushende
 
 ---
 
+# Acknowledgements
+
+- SkillCraft Technology – Machine Learning Internship
+- Microsoft Cats vs Dogs Dataset
+- Kaggle
+- OpenCV Documentation
+- Scikit-learn Documentation
+
+---
+
+# License
+
+This project has been developed for educational purposes as part of the **SkillCraft Technology Machine Learning Internship**.
+
+---
+
 ⭐ If you found this project helpful, consider giving it a Star!
